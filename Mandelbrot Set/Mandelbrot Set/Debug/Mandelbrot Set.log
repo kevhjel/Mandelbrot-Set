@@ -1,0 +1,6 @@
+﻿  Mandelbrot Set.cpp
+C:\Users\stctrain\source\repos\Mandelbrot Set\Mandelbrot Set\Mandelbrot Set.cpp(43,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\stctrain\source\repos\Mandelbrot Set\Mandelbrot Set\Mandelbrot Set.cpp(74,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\stctrain\source\repos\Mandelbrot Set\Mandelbrot Set\Mandelbrot Set.cpp(94,89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stctrain\source\repos\Mandelbrot Set\Mandelbrot Set\Mandelbrot Set.cpp(95,97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mandelbrot Set.vcxproj -> C:\Users\stctrain\source\repos\Mandelbrot Set\Debug\Mandelbrot Set.exe
